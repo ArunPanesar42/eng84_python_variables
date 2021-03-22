@@ -3,6 +3,7 @@
 ### task 
 - What is a variable?
 
+
 ```python
 print("Hello, World")
 ```
@@ -12,4 +13,10 @@ print("Hello, World")
 - Create a files called ```.gitignore```
 ```python
 .gitignore 
+```
+### to add a comment in python we use a "#"
+```python
+# sudo coding 
+# Testing Hello world 
+print("Hello, World")
 ```

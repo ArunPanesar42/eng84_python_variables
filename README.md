@@ -20,3 +20,5 @@ print("Hello, World")
 # Testing Hello world 
 print("Hello, World")
 ```
+### What is a Variable 
+- Variables are used as placeholders
